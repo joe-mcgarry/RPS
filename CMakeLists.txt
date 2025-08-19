@@ -30,6 +30,7 @@ set(GAME_HEADERS
         include/Game.h
         include/GameConstants.h
         include/GameInterface.h
+        include/GameManager.h
 )
 
 # Main game executables
