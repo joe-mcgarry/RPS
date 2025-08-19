@@ -2,7 +2,7 @@
 #define RPS_GAMEINTERFACE_H
 
 #include <string>
-#include "GameConstants.h"
+#include "../include/GameConstants.h"
 
 enum class Choice {
     ROCK,

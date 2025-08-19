@@ -1,4 +1,4 @@
-#include "GameInterface.h"
+#include "../include/GameInterface.h"
 #include <iostream>
 
 // Input strings

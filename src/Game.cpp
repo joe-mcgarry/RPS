@@ -2,7 +2,7 @@
 // Created by Joe McGarry on 09/08/2025.
 //
 
-#include "Game.h"
+#include "../include/Game.h"
 #include <cctype>
 #include <iostream>
 #include <random>

@@ -1,5 +1,5 @@
 #include <catch2/catch_test_macros.hpp>
-#include "Game.h"
+#include "../include/Game.h"
 
 TEST_CASE("determineWinner handles game logic correctly") {
     Game game;

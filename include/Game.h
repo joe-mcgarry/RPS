@@ -3,7 +3,6 @@
 
 #include <string>
 #include "GameInterface.h"
-#include "GameConstants.h"
 
 class Game {
 public:
