@@ -67,6 +67,7 @@ bool GameInterface::isValidChoice(char choice) {
     return (lowerChoice == GameConstants::ROCK_CHAR ||
         lowerChoice == GameConstants::PAPER_CHAR ||
         lowerChoice == GameConstants::SCISSORS_CHAR ||
+        lowerChoice == GameConstants::PLAY_AGAIN_CHAR ||
         lowerChoice == GameConstants::QUIT_CHAR);
 }
 
